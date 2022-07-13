@@ -233,7 +233,7 @@ Distributed under the GPLv3 License. See `LICENSE` for more information.
 
 Lucas Lee - playcover@lucas.icu
 
-Project Link: [https://github.com/PlayCover/PlayCover](https://github.com/PlayCover/PlayCover)
+Project Link: [https://github.com/SoftwareArchitect9817/PlayCover](https://github.com/SoftwareArchitect9817/PlayCover)
 
 <p align="right"><a href="#top">⬆️ Back to top️</a></p>
 
